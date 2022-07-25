@@ -69,7 +69,7 @@
 }
 
 .date{
-    color:(--color-light-gray);
+    color:var(--color-light-gray);
     font-size: 0.5rem;
 }
 
